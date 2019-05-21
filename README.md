@@ -1,9 +1,9 @@
 # Stack
-A Basic stack code in python
+A Basic Stack code in python
 
 ### Completed Modules
-1)Push
+1.Push
 
-2)Pull
+2.Pull
 
-3)Print
+3.Print
